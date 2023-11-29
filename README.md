@@ -1,4 +1,4 @@
-# Lab_4
+# Lab_4 - SCHEDULER
 Bài tập VXL - VĐK Lab 4
 1. Phần mềm: STM32Cube và Proteus
 2. IC: STM32F103C6Tx
