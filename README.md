@@ -1,2 +1,5 @@
 # Lab_4
 Bài tập VXL - VĐK Lab 4
+1. Phần mềm: STM32Cube và Proteus
+2. IC: STM32F103C6Tx
+3. GPIO: LED_BLUE, LED_GREEN, LED_RED, LED_WHITE, LED_YELLOW
