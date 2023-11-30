@@ -1,0 +1,5 @@
+../Core/Src/tasks.c:10:6:led_blue	8	static
+../Core/Src/tasks.c:14:6:led_green	8	static
+../Core/Src/tasks.c:18:6:led_red	8	static
+../Core/Src/tasks.c:22:6:led_white	8	static
+../Core/Src/tasks.c:26:6:led_yellow	8	static
